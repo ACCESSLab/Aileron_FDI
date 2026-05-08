@@ -21,11 +21,11 @@
         <faultName>BearingFriction_timedFault</faultName>
         <resyncUUID>00000000-0000-0000-0000-000000000000</resyncUUID>
         <triggerOn type="faultinfo.TimedTrigger" uuid="d011a89e-a94b-40b5-a2ed-1ab0332753cc">
-          <startTime>7.8</startTime>
+          <startTime>9.0</startTime>
           <isPersistent>true</isPersistent>
         </triggerOn>
       </faults>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
     </faultContainers>
     <faultContainers type="faultinfo.FaultContainer" uuid="65664274-ffab-4575-a7e8-d514c3e4a6b5">
       <activeFault type="faultinfo.SSFault" uuid="1fe2b4e4-a703-4c48-b8e5-0ed6f8cb04a4"/>
@@ -58,7 +58,7 @@
       <isEnabled>false</isEnabled>
     </faultContainers>
     <isEnabled>true</isEnabled>
-    <lastUpdatedAt>2026-04-16T16:17:51</lastUpdatedAt>
+    <lastUpdatedAt>2026-04-17T21:49:03</lastUpdatedAt>
     <modelName>sm_aileron_actuator</modelName>
     <modelUUID>ff9d9b26-736e-412f-9483-baadf0bfd914</modelUUID>
   </faultinfo.FaultContainerSet>
